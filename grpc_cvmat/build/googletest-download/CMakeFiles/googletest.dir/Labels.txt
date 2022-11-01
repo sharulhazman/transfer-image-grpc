@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/CMakeFiles/googletest
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/CMakeFiles/googletest.rule
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
+/Users/sharulrosli/Desktop/sharul_repo/transfer-image-grpc/grpc_cvmat/build/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
